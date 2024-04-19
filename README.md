@@ -17,7 +17,7 @@ This is a simple javascript project made with the help of HTML, CSS, and OpenWea
 Web Url: https://avinash201199.github.io/weather-app/
 
 You can contribute to this project by adding some new features or anything in your mind to contribute <br>
-[Check for getting started](https://github.com/avinash201199/weather-app/blob/main/CONTRIBUTING.md)
+
 
 <br> 
-For any query dm on  [Linkedin](https://www.linkedin.com/in/avinash-singh-071b79175)
+For any query dm on  [Linkedin](https://www.linkedin.com/in/avinash-pingale-605b5027b/))
